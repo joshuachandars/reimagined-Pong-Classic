@@ -30,3 +30,5 @@ index.html   page markup
 style.css    page styles
 game.js      game logic, rendering, sound and bot AI
 ```
+Built By Joshua Chandar
+Built on VS Code
