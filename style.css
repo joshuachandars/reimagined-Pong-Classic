@@ -1,0 +1,22 @@
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+body {
+  background: #000;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  overflow: hidden;
+  font-family: 'Courier New', monospace;
+}
+
+canvas { display: block; background: #000; }
+
+#info {
+  color: #555;
+  font-size: 11px;
+  margin-top: 10px;
+  letter-spacing: 1px;
+  text-align: center;
+}
