@@ -4,9 +4,9 @@ A classic Pong game that runs in the browser. It uses plain HTML, CSS and JavaSc
 
 ## Play
 
-Open `index.html` in any modern browser. If GitHub Pages is enabled for this repo, you can also play it at:
+Open `index.html` in any modern browser. If you want to try the game out, play it at:
 
-`https://<your-username>.github.io/pong/`
+https://joshuachandars.github.io/reimagined-Pong-Classic/
 
 ## Modes
 
